@@ -1,2 +1,2 @@
 console.log("suwpq")
-console.log("rjwej")
+console.log("etnet")
